@@ -1,0 +1,12 @@
+---
+title: Les annotations en Java
+description: Définition et traitement simple d'annotations personnalisées en Java.
+
+metadata-files:
+  - quarto-utils/index-listing.yml
+
+listing: true
+
+jupyter: java-lts
+---
+
