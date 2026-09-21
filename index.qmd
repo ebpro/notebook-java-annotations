@@ -7,6 +7,6 @@ metadata-files:
 
 listing: true
 
-jupyter: java-lts
+jupyter: java
 ---
 
